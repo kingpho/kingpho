@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kingpho
-- 🎓 I'm currently studying Computer Science @ UMN
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
+
 
 
 <!---
