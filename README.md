@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Adrian
+- 👋 Hi, I’m Adrian.
+- I am a recent computer science gradutate from the University of Minnesota Twin Cities.
+- I enjoy working with web development technologies, but I enjoy playing around with other fields as well.
 
 
 
